@@ -40,6 +40,7 @@
  	 <li> Calculo de promedio </li>
 	<li>Pausa </li>
 	<li>Freno </li>
+	<li> Definicion de max </li>
 	<li>Condicion doble </li>
  </ul>
 <br>

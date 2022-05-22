@@ -20,12 +20,13 @@
 	<li>Libreria propia o personalizada </li>
 	<li>Encabezado de funciones </li>
 	<li>Funciones </li>
-  <li> Menu </li>
+ 	 <li> Menu </li>
 	<li> Variables local </li>
 	<li> Variables globales </li>
 	<li> Variables entero </li>
 	<li> Variables flotante </li>
 	<li> Variables cadena </li>
+	<li> Fflush </li>
 	<li> Contador </li>
 	<li> Estructura </li>
 	<li> Arreglo de estructura </li>
@@ -35,8 +36,8 @@
 	<li> if else </li>
 	<li> Valor de retorno </li>
 	<li> Switch case </li>
-  <li> Calculo de porcentaje </li>
-  <li> Calculo de promedio </li>
+ 	 <li> Calculo de porcentaje </li>
+ 	 <li> Calculo de promedio </li>
 	<li>Pausa </li>
 	<li>Freno </li>
 	<li>Condicion doble </li>
